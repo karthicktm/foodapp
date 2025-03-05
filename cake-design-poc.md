@@ -106,11 +106,6 @@
    - Fallback to 3D preview
    - Detect device capabilities
 
-## Cost Estimation
-- Development Resources: 3-4 Full-time Developers
-- Estimated PoC Development Time: 11-12 weeks
-- Estimated Initial Budget: $50,000 - $75,000
-
 ## Risk Mitigation
 - Incremental Feature Rollout
 - Continuous User Feedback
